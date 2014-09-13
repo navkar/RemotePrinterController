@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPTDummy", "EPTDummy.csproj", "{ABFF2832-0298-49E9-8DB0-8DF96E35B6AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{ABFF2832-0298-49E9-8DB0-8DF96E35B6AA}.Debug.ActiveCfg = Debug|.NET
+		{ABFF2832-0298-49E9-8DB0-8DF96E35B6AA}.Debug.Build.0 = Debug|.NET
+		{ABFF2832-0298-49E9-8DB0-8DF96E35B6AA}.Release.ActiveCfg = Release|.NET
+		{ABFF2832-0298-49E9-8DB0-8DF96E35B6AA}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

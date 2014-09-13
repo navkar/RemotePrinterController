@@ -1,0 +1,616 @@
+3/14/2002 9:26:09 PM @ global.asax:Application_OnStart() 
+3/14/2002 9:35:30 PM @ global.asax:Application_OnStart() 
+3/16/2002 10:45:22 AM @ global.asax:Application_OnStart() 
+3/16/2002 11:18:47 AM @ global.asax:Application_OnStart() 
+3/16/2002 5:32:56 PM @ global.asax:Application_OnStart() 
+3/16/2002 5:36:43 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 5:47:39 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 5:48:48 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_101</PrinterId>
+<JobInfo jobId="247947182" cost="111" copies="1"></JobInfo>
+<FileInfo name="bgnet.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost      </EPTHostIp>
+<EPTPortNo>8080 </EPTPortNo>
+</PrintServer>
+
+3/16/2002 5:48:48 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 5:49:44 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_101</PrinterId>
+<JobInfo jobId="1885961294" cost="111" copies="1"></JobInfo>
+<FileInfo name="bgnet.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost      </EPTHostIp>
+<EPTPortNo>8080 </EPTPortNo>
+</PrintServer>
+
+3/16/2002 5:49:44 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 5:49:48 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_101</PrinterId>
+<JobInfo jobId="964456842" cost="111" copies="1"></JobInfo>
+<FileInfo name="bgnet.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost      </EPTHostIp>
+<EPTPortNo>8080 </EPTPortNo>
+</PrintServer>
+
+3/16/2002 5:49:48 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 5:49:50 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_101</PrinterId>
+<JobInfo jobId="739999718" cost="111" copies="1"></JobInfo>
+<FileInfo name="bgnet.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost      </EPTHostIp>
+<EPTPortNo>8080 </EPTPortNo>
+</PrintServer>
+
+3/16/2002 5:49:50 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 5:51:32 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_102</PrinterId>
+<JobInfo jobId="1826216385" cost="111" copies="1"></JobInfo>
+<FileInfo name="advanced_bash_guide.pdf" size="890042"></FileInfo>
+<EPTHostIp>localhost      </EPTHostIp>
+<EPTPortNo>8080 </EPTPortNo>
+</PrintServer>
+
+3/16/2002 5:51:32 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 5:59:18 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_102</PrinterId>
+<JobInfo jobId="22019986" cost="111" copies="1"></JobInfo>
+<FileInfo name="Black_and_White.pdf" size="148871"></FileInfo>
+<EPTHostIp>localhost      </EPTHostIp>
+<EPTPortNo>8080 </EPTPortNo>
+</PrintServer>
+
+3/16/2002 5:59:18 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 6:06:57 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_104</PrinterId>
+<JobInfo jobId="974355870" cost="111" copies="1"></JobInfo>
+<FileInfo name="IBM-Framework4E-biz.pdf" size="7016130"></FileInfo>
+<EPTHostIp>localhost      </EPTHostIp>
+<EPTPortNo>8080 </EPTPortNo>
+</PrintServer>
+
+3/16/2002 6:06:57 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 6:11:22 PM @ global.asax:Application_OnStart() 
+3/16/2002 6:19:32 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_105</PrinterId>
+<JobInfo jobId="542681668" cost="111" copies="5 "></JobInfo>
+<FileInfo name="printit.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 6:19:32 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 6:21:36 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_101</PrinterId>
+<JobInfo jobId="335372070" cost="111" copies="3 "></JobInfo>
+<FileInfo name="sock.pdf" size="46013"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 6:21:36 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 6:23:23 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_103</PrinterId>
+<JobInfo jobId="908687979" cost="5" copies="5 "></JobInfo>
+<FileInfo name="bgnet.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 6:23:23 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 7:21:52 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_103</PrinterId>
+<JobInfo jobId="1760661608" cost="5" copies="1 "></JobInfo>
+<FileInfo name="IBM-Framework4E-biz.pdf" size="7016130"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 7:21:53 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 7:22:51 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_102</PrinterId>
+<JobInfo jobId="1815242379" cost="5" copies="1 "></JobInfo>
+<FileInfo name="advanced_bash_guide.pdf" size="890042"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 7:22:51 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 7:23:08 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_104</PrinterId>
+<JobInfo jobId="2131614369" cost="5" copies="1 "></JobInfo>
+<FileInfo name="sock.pdf" size="46013"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 7:23:08 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 7:25:26 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_101</PrinterId>
+<JobInfo jobId="413630003" cost="5" copies="3 "></JobInfo>
+<FileInfo name="printit.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 7:25:26 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 7:25:35 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_101</PrinterId>
+<JobInfo jobId="2130683243" cost="5" copies="4 "></JobInfo>
+<FileInfo name="Copy of printit.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 7:25:35 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:03:18 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_101</PrinterId>
+<JobInfo jobId="265191850" cost="5" copies="4 "></JobInfo>
+<FileInfo name="Black_and_White.pdf" size="148871"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:03:18 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:03:50 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_102</PrinterId>
+<JobInfo jobId="1065329264" cost="5" copies="4 "></JobInfo>
+<FileInfo name="Black_and_White.pdf" size="148871"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:03:50 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:04:02 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_101</PrinterId>
+<JobInfo jobId="1239932169" cost="5" copies="4 "></JobInfo>
+<FileInfo name="bgnet.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:04:02 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:07:30 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_101</PrinterId>
+<JobInfo jobId="184637495" cost="5" copies="5 "></JobInfo>
+<FileInfo name="printit.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:07:30 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:07:37 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_101</PrinterId>
+<JobInfo jobId="17916513" cost="5" copies="5 "></JobInfo>
+<FileInfo name="bgnet.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:07:37 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:08:48 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_101</PrinterId>
+<JobInfo jobId="1067600874" cost="5" copies="1 "></JobInfo>
+<FileInfo name="printit.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:08:48 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:08:54 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_102</PrinterId>
+<JobInfo jobId="2124455930" cost="5" copies="1 "></JobInfo>
+<FileInfo name="Copy of printit.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:08:54 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:09:05 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_103</PrinterId>
+<JobInfo jobId="861409903" cost="5" copies="3 "></JobInfo>
+<FileInfo name="Black_and_White.pdf" size="148871"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:09:05 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:09:14 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_104</PrinterId>
+<JobInfo jobId="265148654" cost="5" copies="4 "></JobInfo>
+<FileInfo name="bgnet.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:09:14 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:10:58 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_101</PrinterId>
+<JobInfo jobId="2091798812" cost="5" copies="1 "></JobInfo>
+<FileInfo name="printit.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:10:58 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:11:06 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_102</PrinterId>
+<JobInfo jobId="2112517697" cost="5" copies="2 "></JobInfo>
+<FileInfo name="Copy of printit.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:11:06 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:11:13 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_103</PrinterId>
+<JobInfo jobId="1478566739" cost="5" copies="3 "></JobInfo>
+<FileInfo name="Black_and_White.pdf" size="148871"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:11:13 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:11:24 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_104</PrinterId>
+<JobInfo jobId="122666131" cost="5" copies="4 "></JobInfo>
+<FileInfo name="bgnet.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:11:24 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:14:05 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_101</PrinterId>
+<JobInfo jobId="1201039651" cost="5" copies="1 "></JobInfo>
+<FileInfo name="printit.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:14:05 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:14:11 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_102</PrinterId>
+<JobInfo jobId="2075983181" cost="5" copies="2 "></JobInfo>
+<FileInfo name="Copy of printit.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:14:11 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:14:20 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_103</PrinterId>
+<JobInfo jobId="2048628127" cost="5" copies="3 "></JobInfo>
+<FileInfo name="Black_and_White.pdf" size="148871"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:14:20 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:14:32 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_104</PrinterId>
+<JobInfo jobId="350513492" cost="5" copies="4 "></JobInfo>
+<FileInfo name="bgnet.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:14:32 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:14:39 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_105</PrinterId>
+<JobInfo jobId="1391287864" cost="5" copies="5 "></JobInfo>
+<FileInfo name="advanced_bash_guide.pdf" size="890042"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:14:39 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:16:33 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_101</PrinterId>
+<JobInfo jobId="692063656" cost="5" copies="3 "></JobInfo>
+<FileInfo name="printit.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:16:33 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:17:20 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_102</PrinterId>
+<JobInfo jobId="1276516009" cost="5" copies="4 "></JobInfo>
+<FileInfo name="printit.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:17:20 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:28:50 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_101</PrinterId>
+<JobInfo jobId="505832726" cost="5" copies="3 "></JobInfo>
+<FileInfo name="jnk.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:28:50 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 8:35:59 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_103</PrinterId>
+<JobInfo jobId="842345879" cost="5" copies="3 "></JobInfo>
+<FileInfo name="jnk.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 8:35:59 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 11:26:34 PM @ global.asax:Application_OnStart() 
+3/16/2002 11:27:22 PM @ global.asax:Application_OnStart() 
+3/16/2002 11:27:24 PM @ EAS.aspx:Reads the multipart data from the EPT client.
+3/16/2002 11:27:24 PM @ EAS.aspx:Getting the boundary string from the 'Content-Type' header.
+3/16/2002 11:27:24 PM @ EAS.aspx:Xml data -> 
+3/16/2002 11:27:25 PM @ EPTXmlReader:System.Xml.XmlException: The root element is missing.
+   at System.Xml.XmlTextReader.Read()
+   at EAppService.EASXmlReader..ctor(XmlTextReader reader)
+3/16/2002 11:27:25 PM @ EAS.aspx:iErrorCode = 300
+3/16/2002 11:27:26 PM @ EAS.aspx:Reads the multipart data from the EPT client.
+3/16/2002 11:27:26 PM @ EAS.aspx:Getting the boundary string from the 'Content-Type' header.
+3/16/2002 11:27:26 PM @ EAS.aspx:Xml data -> 
+3/16/2002 11:27:26 PM @ EPTXmlReader:System.Xml.XmlException: The root element is missing.
+   at System.Xml.XmlTextReader.Read()
+   at EAppService.EASXmlReader..ctor(XmlTextReader reader)
+3/16/2002 11:27:26 PM @ EAS.aspx:iErrorCode = 300
+3/16/2002 11:32:25 PM @ EAS.aspx:Reads the multipart data from the EPT client.
+3/16/2002 11:32:25 PM @ EAS.aspx:Getting the boundary string from the 'Content-Type' header.
+3/16/2002 11:32:25 PM @ EAS.aspx:Xml data -> 
+3/16/2002 11:32:25 PM @ EPTXmlReader:System.Xml.XmlException: The root element is missing.
+   at System.Xml.XmlTextReader.Read()
+   at EAppService.EASXmlReader..ctor(XmlTextReader reader)
+3/16/2002 11:32:25 PM @ EAS.aspx:iErrorCode = 300
+3/16/2002 11:33:53 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_104</PrinterId>
+<JobInfo jobId="1296363340" cost="5" copies="3 "></JobInfo>
+<FileInfo name="jnk.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 11:33:55 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 11:34:47 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_101</PrinterId>
+<JobInfo jobId="1143457811" cost="5" copies="4 "></JobInfo>
+<FileInfo name="jnk.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 11:34:47 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/16/2002 11:56:22 PM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_101</PrinterId>
+<JobInfo jobId="1829098971" cost="5" copies="4 "></JobInfo>
+<FileInfo name="jnk.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/16/2002 11:56:22 PM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/17/2002 12:00:28 AM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_102</PrinterId>
+<JobInfo jobId="661258897" cost="5" copies="1 "></JobInfo>
+<FileInfo name="bgnet.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/17/2002 12:00:28 AM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/17/2002 12:15:21 AM @ global.asax:Application_OnStart() 
+3/17/2002 12:20:09 AM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_103</PrinterId>
+<JobInfo jobId="1461137386" cost="5" copies="1 "></JobInfo>
+<FileInfo name="Black_and_White.pdf" size="148871"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/17/2002 12:20:10 AM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/17/2002 12:21:04 AM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_103</PrinterId>
+<JobInfo jobId="1347484158" cost="5" copies="1 "></JobInfo>
+<FileInfo name="Black_and_White.pdf" size="148871"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/17/2002 12:21:04 AM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/17/2002 12:21:38 AM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_105</PrinterId>
+<JobInfo jobId="1475308453" cost="5" copies="1 "></JobInfo>
+<FileInfo name="Black_and_White.pdf" size="148871"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/17/2002 12:21:38 AM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/17/2002 12:22:25 AM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_101</PrinterId>
+<JobInfo jobId="836184768" cost="5" copies="1 "></JobInfo>
+<FileInfo name="advanced_bash_guide.pdf" size="890042"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/17/2002 12:22:25 AM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/17/2002 12:22:37 AM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_101</PrinterId>
+<JobInfo jobId="1055568315" cost="5" copies="5 "></JobInfo>
+<FileInfo name="bgnet.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/17/2002 12:22:37 AM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/17/2002 12:26:17 AM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_102</PrinterId>
+<JobInfo jobId="1525031125" cost="5" copies="1 "></JobInfo>
+<FileInfo name="bgnet.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/17/2002 12:26:17 AM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/17/2002 12:28:51 AM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_105</PrinterId>
+<JobInfo jobId="292542888" cost="5" copies="1 "></JobInfo>
+<FileInfo name="IBM-Framework4E-biz.pdf" size="7016130"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/17/2002 12:28:51 AM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/17/2002 12:34:11 AM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>JBH_105</PrinterId>
+<JobInfo jobId="1732028054" cost="5" copies="1 "></JobInfo>
+<FileInfo name="IBM-Framework4E-biz.pdf" size="7016130"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/17/2002 12:34:11 AM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/17/2002 12:36:48 AM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_101</PrinterId>
+<JobInfo jobId="303950764" cost="5" copies="5 "></JobInfo>
+<FileInfo name="bgnet.pdf" size="305212"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/17/2002 12:36:48 AM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/17/2002 12:37:05 AM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_102</PrinterId>
+<JobInfo jobId="770072912" cost="5" copies="4 "></JobInfo>
+<FileInfo name="Black_and_White.pdf" size="148871"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/17/2002 12:37:05 AM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/17/2002 12:39:05 AM @ global.asax:Application_OnStart() 
+3/17/2002 12:40:54 AM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_101</PrinterId>
+<JobInfo jobId="769853014" cost="5" copies="1 "></JobInfo>
+<FileInfo name="IBM-Framework4E-biz.pdf" size="7016130"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/17/2002 12:40:54 AM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ
+3/17/2002 12:41:04 AM @ <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<PrintServer>
+<Request>NWJ</Request>
+<PrinterId>PUN_102</PrinterId>
+<JobInfo jobId="480519240" cost="5" copies="1 "></JobInfo>
+<FileInfo name="sock.pdf" size="46013"></FileInfo>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrintServer>
+
+3/17/2002 12:41:04 AM @ Queue Manager:SendMessage() QName: NAV2K\JQ Label:NWJ

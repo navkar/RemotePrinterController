@@ -1,0 +1,8 @@
+E:\April_2013_Backup\EPSON\7-Apr-VSP\CharacterCounterApp\obj\Debug\CharacterCounterApp.exe
+E:\April_2013_Backup\EPSON\7-Apr-VSP\CharacterCounterApp\obj\Debug\CharacterCounterApp.pdb
+E:\April_2013_Backup\EPSON\7-Apr-VSP\CharacterCounterApp\bin\Debug\CharacterCounterApp.exe
+E:\April_2013_Backup\EPSON\7-Apr-VSP\CharacterCounterApp\bin\Debug\CharacterCounterApp.pdb
+E:\April_2013_Backup\EPSON\7-Apr-VSP\CharacterCounterApp\obj\Debug\CharacterCounterApp.csprojResolveAssemblyReference.cache
+E:\April_2013_Backup\EPSON\7-Apr-VSP\CharacterCounterApp\obj\Debug\CharacterCounterApp.CharacterCounter.resources
+E:\April_2013_Backup\EPSON\7-Apr-VSP\CharacterCounterApp\obj\Debug\CharacterCounterApp.csproj.GenerateResource.Cache
+E:\April_2013_Backup\EPSON\7-Apr-VSP\CharacterCounterApp\bin\Debug\CharacterCounterApp.exe.config

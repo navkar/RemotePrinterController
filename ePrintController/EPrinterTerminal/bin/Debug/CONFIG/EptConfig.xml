@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Configuration>
+      <EPTHostIp>localhost</EPTHostIp>
+      <HostName>localhost</HostName>
+      <EPTPortNo>8080</EPTPortNo>
+      <PortNo>80</PortNo>
+      <PrinterId>JBH_111</PrinterId>
+      <AreaCode>JBH</AreaCode>
+</Configuration>

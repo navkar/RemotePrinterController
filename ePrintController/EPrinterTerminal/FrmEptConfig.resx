@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" targetNamespace="" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <data name="pictBox.Image" mimetype="text/microsoft-urt/binary-serialized/base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFRTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj0xLjAuMjQxMS4wLCBD
+        dWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0u
+        RHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAlgIAAAKJUE5HDQoaCgAAAA1JSERS
+        AAAAIAAAACAIBgAAAHN6evQAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAA
+        gIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACFElEQVRYR92Wi5GCMBRFbcEWbCEt2IIt0IIt
+        2AIt2IIt0IIt2EL2nYTLYgZIQtzZ2WUmAyYh9/M+eDj8xet4PPpf5V1CoGTPbhG5w1nP7dkEbzmg5d2J
+        lA6Zq3ibcy4qHO9z0CblqS06bAIwwIPrvOv6AO76wZ9OJ9/Zb2fzH1G/SMIO/waOBDQiuPPGJRD5vAOA
+        d8OkGOWdoTFQ3/c+qBcR5lLndjujOKNewKiNBL6BL5dLAO1t/vF47COQJl4Ex+7BRhfUSh2KIaK52+3m
+        IQE4F2vVNb5EIMTZVE3xDqot3jbHGCzu/Labv9/vgYTcqCawlHwojGotxhZsxVvgEACwM4fkyPP59Nfr
+        tT0ZcQTrVWKyO5Jy/nw+v4UA65nTvbkaAgFTjmoUB6tNMc+ofr1eAYz4DyyMsd+dA0sxU2ZT46gjyYDC
+        BUAZ2E/8pRxiS2VYnBNpWwUAgeSA7OeOC6iHGEM5wPNqC8+xWPsGKObcUYgTEOMi4RSC3Q1ni5gORTFW
+        K9EgI9shkCrPia1anzvDsypAtv+IcjFcCksV+5bNpeCpQ809IFVfkiNLJNK5KjNK1G/tmScvFVOdJyUv
+        bO1hLZaoH0fsoMXhyW3MOcQ65cnHid6h/pE79+2PaUns1/bENm4fkvFSi64isLY5px5S7KFl44A+UCXv
+        Lf41X8vwXFaLhGIvQdUutJRTy7s5gf9j/QtEUI31gNVEZwAAAABJRU5ErkJgggs=
+</value>
+  </data>
+  <data name="$this.Name">
+    <value>FrmEptConfig</value>
+  </data>
+  <data name="$this.Icon" mimetype="text/microsoft-urt/binary-serialized/base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFRTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj0xLjAuMjQxMS4wLCBD
+        dWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0u
+        RHJhd2luZy5JY29uAgAAAAhJY29uRGF0YQhJY29uU2l6ZQcEAhNTeXN0ZW0uRHJhd2luZy5TaXplAgAA
+        AAIAAAAJAwAAAAX/////E1N5c3RlbS5EcmF3aW5nLlNpemUCAAAABXdpZHRoBmhlaWdodAAACAgCAAAA
+        EAAAABAAAAAPAwAAAD4BAAACAAABAAEAEBAQAAAAAAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAA
+        wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAACAAAAAgIAAgAAAAIAAgACAgAAAgICAAMDAwAAAAP8A
+        AP8AAAD//wD/AAAA/wD/AP//AAD///8A///////////wAAAAAAAAD/D/////8IgP8P/////w+A/w8AAA
+        D/AAD/D/////8O4P8PAPAADw7g/w//////DuD/DwAAAP8O4P8P/////w7g/w8AAA//DuD/D/////8AAP
+        8PAA8A/wiA/w//////D4D/AAAAAAAAAP//////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACw==
+</value>
+  </data>
+  <resheader name="ResMimeType">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="Version">
+    <value>1.0.0.0</value>
+  </resheader>
+  <resheader name="Reader">
+    <value>System.Resources.ResXResourceReader</value>
+  </resheader>
+  <resheader name="Writer">
+    <value>System.Resources.ResXResourceWriter</value>
+  </resheader>
+</root>

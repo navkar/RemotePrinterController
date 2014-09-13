@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<xsd:schema id="root" targetNamespace="" xmlns="" xmlns:xsd="http://www.w3.org/1999/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="data">
+			<xsd:complexType content="mixed">
+				<xsd:all>
+					<xsd:element name="value" minOccurs="0" type="xsd:string" />
+				</xsd:all>
+				<xsd:attribute name="name" type="xsd:string" />
+				<xsd:attribute name="type" type="xsd:string" />
+				<xsd:attribute name="mimetype" type="xsd:string" />
+			</xsd:complexType>
+		</xsd:element>
+		<xsd:element name="resheader">
+			<xsd:complexType content="mixed">
+				<xsd:all>
+					<xsd:element name="value" minOccurs="0" type="xsd:string" />
+				</xsd:all>
+				<xsd:attribute name="name" use="required" type="xsd:string" />
+			</xsd:complexType>
+		</xsd:element>
+		<xsd:element name="root" msdata:IsDataSet="True">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element ref="data" />
+					<xsd:element ref="resheader" />
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<data name="$this.Icon" mimetype="text/microsoft-urt/psuedoml-serialized/base64">
+		<value>AAEAAAD/////AQAAAAAAAAAMAgAAADxTeXN0ZW0uRHJhd2luZywgVmVyPTEuMC4yMjA0LjIxLCBMb2M9IiIsIFNOPTAzNjg5MTE2ZDNhNGFlMzMFAQAAABNTeXN0ZW0uRHJhd2luZy5JY29uAQAAAAREYXRhAw1TeXN0ZW0uQnl0ZVtdAgAAAAkDAAAABwMAAAAAAQAAAP4CAAAAAgAAAQABACAgEAAAAAAA6AIAABYAAAAoAAAAIAAAAEAAAAABAAQAAAAAAIACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAAAACAAIAAgIAAAICAgADAwMAAAAD/AAD/AAAA//8A/wAAAP8A/wD//wAA////AP//////////////////////////////////////////////////iIiIj//////////////4iIiIiIiP////////////iIiIiHh4iI//////////+IiIh3d3d3eI/////////4iIhzdAAAAAR4////////iIiHN0AAAAAAR4//////+IiId3AHd3dwAABH//////iIhzcAdnZ0AAAABH/////4iIdwB2ZjAAAAAAB3////iIg3AHZjJyAAAAJjR4///4iIdAdyMnJyAAAiIiR///+IhzAHdwMqKjACKiomSP//iIdwd3AAOqozKqKqpmf//4iHQHdAAAOjM6d6OqJn//+IhwB3AAACM6qmqqOiB///iIcAdwAAAjqqZmqqMEf//4iHAAcAAAKqanp2ogAE///4hwAAAAA6pqiIeiIAB///+IhAAAADOqqIiIciAAf///+IcAAAKqqoiP8HogAI////+HAAAiqqp4//CKIAeP////+EAAIqqqqId4imAH//////+AAAIqqqN3d3qgSP//////9wAAJiJiRHd6II////////9wAAJiAEBHZij/////////90AAAAAAAGeP//////////+HQAAAAAB4/////////////4d3R3d4////////////////////////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</value>
+	</data>
+	<resheader name="ResMimeType">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="Version">
+		<value>1.0.0.0</value>
+	</resheader>
+	<resheader name="Reader">
+		<value>System.Resources.ResourceReader</value>
+	</resheader>
+	<resheader name="Writer">
+		<value>System.Resources.ResourceWriter</value>
+	</resheader>
+</root>

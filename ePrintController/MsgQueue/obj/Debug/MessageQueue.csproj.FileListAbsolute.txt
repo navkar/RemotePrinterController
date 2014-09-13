@@ -1,0 +1,3 @@
+E:\April_2013_Backup\EPSON\7-Apr-VSP\MsgQueue\obj\Debug\MessageQueue.csproj.GenerateResource.Cache
+E:\April_2013_Backup\EPSON\7-Apr-VSP\MsgQueue\bin\Debug\MessageQueue.exe.config
+E:\April_2013_Backup\EPSON\7-Apr-VSP\MsgQueue\obj\Debug\MessageQueue.csprojResolveAssemblyReference.cache

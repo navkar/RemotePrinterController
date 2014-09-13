@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" ?>
+<ReturnCodes">
+	<RC200>OK </RC200>
+	<RC300>Invalid XML format </RC300>
+	<RC301>Invalid Request type. </RC301>
+	<RC302>Invalid Printer id. </RC302>
+	<RC303>Invalid Printer capability. </RC303>
+	<RC304>Invalid Paper information.</RC304>
+	<RC305>Invalid Job information.</RC305>
+	<RC306>Invalid File information.</RC306>
+	<RC307>Invalid Printer status information. </RC307>
+	<RC400>New Print Job not found </RC400>
+	<RC401>RPR reply message not found. </RC401>
+	<RC402>DPR reply message not found. </RC402>
+	<RC403>GRP reply message not found. </RC403>
+	<RC404>Print Job file not found.</RC404>
+	<RC500>Connection failed. </RC500>
+	<RC911>EPC is not ready. </RC911>
+</ReturnCodes>

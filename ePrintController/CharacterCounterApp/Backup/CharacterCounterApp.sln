@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterCounterApp", "CharacterCounterApp.csproj", "{96218EF0-9FE3-4DAD-A283-C9199432F134}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{96218EF0-9FE3-4DAD-A283-C9199432F134}.Debug.ActiveCfg = Debug|.NET
+		{96218EF0-9FE3-4DAD-A283-C9199432F134}.Debug.Build.0 = Debug|.NET
+		{96218EF0-9FE3-4DAD-A283-C9199432F134}.Release.ActiveCfg = Release|.NET
+		{96218EF0-9FE3-4DAD-A283-C9199432F134}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

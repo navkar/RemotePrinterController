@@ -1,0 +1,11 @@
+E:\April_2013_Backup\EPSON\7-Apr-VSP\EPrinterTerminal\obj\Debug\EPrinterTerminal.exe
+E:\April_2013_Backup\EPSON\7-Apr-VSP\EPrinterTerminal\obj\Debug\EPrinterTerminal.pdb
+E:\April_2013_Backup\EPSON\7-Apr-VSP\EPrinterTerminal\bin\Debug\EPrinterTerminal.exe.config
+E:\April_2013_Backup\EPSON\7-Apr-VSP\EPrinterTerminal\bin\Debug\EPrinterTerminal.exe
+E:\April_2013_Backup\EPSON\7-Apr-VSP\EPrinterTerminal\bin\Debug\EPrinterTerminal.pdb
+E:\April_2013_Backup\EPSON\7-Apr-VSP\EPrinterTerminal\obj\Debug\EPrinterTerminal.csprojResolveAssemblyReference.cache
+E:\April_2013_Backup\EPSON\7-Apr-VSP\EPrinterTerminal\obj\Debug\EPrinterTerminal.FrmEPrinterTerminal.resources
+E:\April_2013_Backup\EPSON\7-Apr-VSP\EPrinterTerminal\obj\Debug\EPrinterTerminal.FrmEptConfig.resources
+E:\April_2013_Backup\EPSON\7-Apr-VSP\EPrinterTerminal\obj\Debug\EPrinterTerminal.FrmRegisterPrinter.resources
+E:\April_2013_Backup\EPSON\7-Apr-VSP\EPrinterTerminal\obj\Debug\EPrinterTerminal.FrmRPRAddPaperInfo.resources
+E:\April_2013_Backup\EPSON\7-Apr-VSP\EPrinterTerminal\obj\Debug\EPrinterTerminal.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<PrinterTerminal>
+<Request>NPS</Request>
+<PrinterId>JBH_111</PrinterId>
+<PrinterInfo printerStatus="1" />
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+</PrinterTerminal>

@@ -1,0 +1,7 @@
+E:\April_2013_Backup\EPSON\7-Apr-VSP\EPTDummy\bin\Debug\EPTDummy.exe.config
+E:\April_2013_Backup\EPSON\7-Apr-VSP\EPTDummy\bin\Debug\EPTDummy.exe
+E:\April_2013_Backup\EPSON\7-Apr-VSP\EPTDummy\bin\Debug\EPTDummy.pdb
+E:\April_2013_Backup\EPSON\7-Apr-VSP\EPTDummy\obj\Debug\EPTDummy.exe
+E:\April_2013_Backup\EPSON\7-Apr-VSP\EPTDummy\obj\Debug\EPTDummy.pdb
+E:\April_2013_Backup\EPSON\7-Apr-VSP\EPTDummy\obj\Debug\EPTDummy.EPrinterDummy.resources
+E:\April_2013_Backup\EPSON\7-Apr-VSP\EPTDummy\obj\Debug\EPTDummy.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<PrinterTerminal>
+<Request>RPR</Request>
+<PrinterId></PrinterId>
+<PrinterCap manufacturer="EPSON" model="Laser Jet" type="2" color="1" duplex="0">
+<PaperInfo size="A4" width="600" height="800"/>
+</PrinterCap>
+<EPTHostIp>localhost</EPTHostIp>
+<EPTPortNo>8080</EPTPortNo>
+<AreaCode>JBH</AreaCode>
+</PrinterTerminal>
